@@ -38,10 +38,11 @@
 .Content p{
     line-height: 30px;
     font-size: 1.5rem;
-    max-height: 10px;
+    max-height: 50px;
     font-weight: normal;
     font-family: 'poppins';
     margin-bottom: 20px;
+    
 }
 .Content img{
     min-height: 400px;

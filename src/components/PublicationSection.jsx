@@ -16,7 +16,7 @@ MediaDir: '/static/media/video01.015421ae62da53f1d323.mp4',
 MediaType:'.mp4'
 },{
     ProfilePicture:'static/media/Profile_Picture.2a28de9cc240c3058614.jpg',
-    Tittle:'Montamos o seu computador:',
+    Tittle:'Limpamos o seu computador:',
     Description:'Você sabia que a limpeza de seu computador pode prolongar a vida útil do equipamento? ',
     MediaDir: '/static/media/Limpeza.694a184963c97380e6b6.jpg',
     MediaType:'.jpg'

@@ -5,8 +5,8 @@ export default function PublicationMedia(PublicationData){
             MediaElement = <img src={PublicationData.MediaDir} alt=''/>
             break;
         case '.mp4':
-            MediaElement = <video>
-                <source src={PublicationData.MediaDir} type="video/mp4" />
+            MediaElement = <video controls="" autoPlay="true" muted loop="true"> 
+                <source src={PublicationData.MediaDir} type="video/mp4"/>
             </video>
             break;
     

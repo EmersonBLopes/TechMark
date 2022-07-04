@@ -28,7 +28,7 @@ let ClientComments =[{
 },{
     UserName : "Marta Roberta P.",
     UserProfilePicture: "/static/media/Martinha_profile.de716a754d74a69dd74e.jfif",
-    Comment : "Cadê o grupo 16 que não ven falar comigo?",
+    Comment : "Cadê o grupo 16 que não vem falar comigo?",
     Time : "18 Agosto de 2023 15:15",
     evaluation: 5
 }]
